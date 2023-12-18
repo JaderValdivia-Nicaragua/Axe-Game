@@ -1,0 +1,9 @@
+*.exe
+*.dsym
+main
+*.dll
+
+Makefile
+main.code-workspace
+
+.vscode
